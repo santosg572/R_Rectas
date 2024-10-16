@@ -1,0 +1,7 @@
+Traslacion <- function(x=0, y=0, t=0){
+Traslada_Puntos <- function(x=0, y=0, pi=0, pf=0){
+Rota_Puntos <- function(x=0, y=0, pr=0, teta){
+Gen_Cuadrado <- function(x0=0, y0=0, del1=0){
+Graf_Cuadrado <- function(x, y){
+Rota <- function(teta=0, x=0, y=0){
+Rota_Vertices <- function(teta=0, x=0, y=0, p=0){
